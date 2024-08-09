@@ -17,7 +17,7 @@
  
 - 📝 I regularly write articles on [Medium](https://medium.com/)
 
-- 💬 Ask me about **CSS,JavaScript**
+- 💬 Ask me about **CSS,JavaScript,React,MYSql,MongoDB**
 
 - 📫 How to reach me **ravindranathjha76@gmail.com**
 
