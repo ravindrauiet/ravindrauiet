@@ -11,7 +11,7 @@
 
 <h2 align="center"> About me</h2>
 
-- 🌱 I’m currently learning **Cloud** 
+- 🌱 I’m currently learning **Cloud Engineering** 
 
 - 👨‍💻 All of my projects are available at [Projects](https://portfolio-react-one-wheat.vercel.app/project)
  
