@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Cloud Engineering** 
 
-- 👨‍💻 All of my projects are available at [Projects](https://portfolio-react-one-wheat.vercel.app/project)
+- 👨‍💻 All of my projects are available at [Projects](https://ravindranathjha.in/projects/)
 
 - 💬 Ask me about **CSS,JavaScript,React,MYSql,MongoDB**
 
